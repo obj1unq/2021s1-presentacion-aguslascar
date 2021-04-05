@@ -2,7 +2,7 @@
 
 ## Estudiante: Agustin Lascar
 
-![Yo](fotocv.jpg)
+![Yo](Foto cv.jpg)
 
 Soy estudiante de licenciatura en informatica
 
